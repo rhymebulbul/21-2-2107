@@ -1,0 +1,7 @@
+requests
+flask==2.0.1
+flask-wtf==0.15.1
+wtforms==2.3.3
+flask-restful==0.3.9
+coverage==5.5
+ozholiday==0.1.1
