@@ -35,3 +35,9 @@ Once you are finished working on the project, you can exit virtualenv by running
 ```
 deactivate
 ```
+
+
+Credits:
+Alina
+Cleshan
+Ethan
